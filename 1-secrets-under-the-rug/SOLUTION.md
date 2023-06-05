@@ -1,4 +1,4 @@
-# Lab #1 Solution: Exploiting Weak HMAC Secrets 😎
+# Lab #1 Solution: Exploiting Weak HMAC Secrets
 
 This document provides a step-by-step guide to exploiting weak HMAC secrets in JWTs, as explored in Lab #1.
 
