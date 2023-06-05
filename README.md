@@ -8,19 +8,23 @@ Our labs, each focusing on a specific JWT-related vulnerability, are as follows:
 
 1. **Secrets Under the Rug: Exploiting Weak HMAC Secrets** 🤫: This lab teaches you about HMAC weaknesses and how low-complexity secrets can lead to vulnerabilities. [Get started here](https://github.com/mxcezl/JWT-SecLabs/tree/main/1-secrets-under-the-rug).
 
-2. **Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)** 🚫: In this lab, you'll practice exploiting the none algorithm vulnerability, which can lead to token verification bypass.
+2. **Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)** 🚫: In this lab, you'll practice exploiting the none algorithm vulnerability, which can lead to token verification bypass. (Under Development)
 
-3. **Chameleon Hashes: Changing Hash from Asymmetric to Symmetric (CVE-2016-5431/CVE-2016-10555)** 🔀: This lab provides a deeper understanding of the potential pitfalls in hash algorithms and how to exploit them.
+3. **Chameleon Hashes: Changing Hash from Asymmetric to Symmetric (CVE-2016-5431/CVE-2016-10555)** 🔀: This lab provides a deeper understanding of the potential pitfalls in hash algorithms and how to exploit them. (Under Development)
 
-4. **Breaking and Entering Keys: Injecting a New Public Key in the Header (CVE-2018-0114)** 🔑: Here, you'll explore how attackers can insert a new public key into the header to manipulate token verification.
+4. **Breaking and Entering Keys: Injecting a New Public Key in the Header (CVE-2018-0114)** 🔑: Here, you'll explore how attackers can insert a new public key into the header to manipulate token verification. (Under Development)
 
-5. **Hidden Keys, Open Doors: Exploiting Embedded Public Keys (CVE-2018-0114)** 👁️: This lab is centered around learning about vulnerabilities that arise when public keys are embedded in tokens.
+5. **Hidden Keys, Open Doors: Exploiting Embedded Public Keys (CVE-2018-0114)** 👁️: This lab is centered around learning about vulnerabilities that arise when public keys are embedded in tokens. (Under Development)
 
-6. **ID Missteps: Exploring Bad JWT ID (JTI) Implementation in Backend** 🆔: In this lab, you'll discover how missteps in JTI implementation can open the door for exploitation.
+6. **ID Missteps: Exploring Bad JWT ID (JTI) Implementation in Backend** 🆔: In this lab, you'll discover how missteps in JTI implementation can open the door for exploitation. (Under Development)
 
 ## 🎓 How to Use 
 
 To get started, check out the [docs](https://github.com/mxcezl/JWT-SecLabs/tree/main/docs) folder. Here, you'll find detailed guides and tutorials for each lab. Each guide includes a scenario description, step-by-step instructions, and expected results. 
+
+## 🗓️ Changelog
+
+To follow the development progress and see the changes made over time, check out the [CHANGELOG](https://github.com/mxcezl/JWT-SecLabs/tree/main/CHANGELOG.md).
 
 ## 👩‍💻 How to Contribute
 
@@ -45,7 +49,9 @@ Please provide a summary of your change and which issue is fixed. Explain your m
 
 Fixes # (issue)
 
-## 🎈 Type of Change
+##
+
+ 🎈 Type of Change
 
 Please delete options that are not relevant.
 
@@ -56,9 +62,7 @@ Please delete options that are not relevant.
 
 ## ✅ How Has This Been Tested?
 
-Please
-
- describe the tests you ran to verify your changes. Provide instructions so we can reproduce.
+Please describe the tests you ran to verify your changes. Provide instructions so we can reproduce.
 
 ## 📝 Checklist:
 
