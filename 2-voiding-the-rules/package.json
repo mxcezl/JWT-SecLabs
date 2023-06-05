@@ -1,0 +1,25 @@
+{
+  "name": "voiding-the-rules",
+  "version": "1.0.0",
+  "description": "Lab n°2 to learn about JWT vulnerabilities",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxcezl/JWT-SecLabs.git"
+  },
+  "author": "Maxence Zolnieruck",
+  "bugs": {
+    "url": "https://github.com/mxcezl/JWT-SecLabs/issues"
+  },
+  "homepage": "https://github.com/mxcezl/JWT-SecLabs#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "validator": "^13.9.0"
+  }
+}
