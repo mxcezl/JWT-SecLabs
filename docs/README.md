@@ -6,7 +6,7 @@ Here's a quick directory to help you navigate:
 
 1. **[Secrets Under the Rug: Exploiting Weak HMAC Secrets](1-SECRETS-UNDER-THE-RUG.md)** 🤫: Your journey starts here! Learn how low-complexity secrets can lead to vulnerabilities in HMAC-signed JWTs.
 
-2. **Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)** 🚫: Not yet developed. Stay tuned to practice exploiting the none algorithm vulnerability, which can lead to token verification bypass.
+2. **[Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)](2-VOIDING-THE-RULES.md)** 🚫: Not yet developed. Stay tuned to practice exploiting the none algorithm vulnerability, which can lead to token verification bypass.
 
 3. **Chameleon Hashes: Changing Hash from Asymmetric to Symmetric (CVE-2016-5431/CVE-2016-10555)** 🔀: Coming soon. This lab will provide a deeper understanding of the potential pitfalls in hash algorithms and how to exploit them.
 

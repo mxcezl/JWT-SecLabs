@@ -8,7 +8,7 @@ Our labs, each focusing on a specific JWT-related vulnerability, are as follows:
 
 1. **Secrets Under the Rug: Exploiting Weak HMAC Secrets** 🤫: This lab teaches you about HMAC weaknesses and how low-complexity secrets can lead to vulnerabilities. [Get started here](https://github.com/mxcezl/JWT-SecLabs/tree/main/1-secrets-under-the-rug).
 
-2. **Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)** 🚫: In this lab, you'll practice exploiting the none algorithm vulnerability, which can lead to token verification bypass. (Under Development)
+2. **Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)** 🚫: In this lab, you'll practice exploiting the none algorithm vulnerability, which can lead to token verification bypass. [Get started here](https://github.com/mxcezl/JWT-SecLabs/tree/main/2-voiding-the-rules).
 
 3. **Chameleon Hashes: Changing Hash from Asymmetric to Symmetric (CVE-2016-5431/CVE-2016-10555)** 🔀: This lab provides a deeper understanding of the potential pitfalls in hash algorithms and how to exploit them. (Under Development)
 

@@ -1,7 +1,7 @@
 const express = require('express');
 const jwt = require('jsonwebtoken');
 const cookieParser = require('cookie-parser');
-var validator = require('validator');
+const validator = require('validator');
 
 const app = express();
 
