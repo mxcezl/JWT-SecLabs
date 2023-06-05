@@ -6,7 +6,7 @@ Welcome to the JWT Hacking Lab! This project is a fantastic hands-on playground 
 
 Our labs, each focusing on a specific JWT-related vulnerability, are as follows:
 
-1. **Secrets Under the Rug: Exploiting Weak HMAC Secrets** 🤫: This lab teaches you about HMAC weaknesses and how low-complexity secrets can lead to vulnerabilities.
+1. **Secrets Under the Rug: Exploiting Weak HMAC Secrets** 🤫: This lab teaches you about HMAC weaknesses and how low-complexity secrets can lead to vulnerabilities. [Get started here](https://github.com/mxcezl/JWT-SecLabs/tree/main/1-secrets-under-the-rug).
 
 2. **Voiding the Rules: None Algorithm Exploitation (CVE-2015-9235)** 🚫: In this lab, you'll practice exploiting the none algorithm vulnerability, which can lead to token verification bypass.
 
@@ -20,7 +20,7 @@ Our labs, each focusing on a specific JWT-related vulnerability, are as follows:
 
 ## 🎓 How to Use 
 
-To get started, check out the `docs` folder. Here, you'll find detailed guides and tutorials for each lab. Each guide includes a scenario description, step-by-step instructions, and expected results. 
+To get started, check out the [docs](https://github.com/mxcezl/JWT-SecLabs/tree/main/docs) folder. Here, you'll find detailed guides and tutorials for each lab. Each guide includes a scenario description, step-by-step instructions, and expected results. 
 
 ## 👩‍💻 How to Contribute
 
