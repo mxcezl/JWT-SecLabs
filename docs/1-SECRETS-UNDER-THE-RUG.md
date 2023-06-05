@@ -1,5 +1,7 @@
 # JWT Hacking Lab: Lab #1 - Exploiting Weak HMAC Secrets
 
+**Link to Lab:** [1 - Secrets Under the Rug](https://github.com/mxcezl/JWT-SecLabs/tree/main/1-secrets-under-the-rug)
+
 Welcome to the first lab of the JWT Hacking Lab! This lab focuses on exploiting weak HMAC secrets used in JWTs. 
 
 ## 🎯 What You'll Learn
