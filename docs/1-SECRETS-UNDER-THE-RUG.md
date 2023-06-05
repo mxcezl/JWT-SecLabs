@@ -32,10 +32,6 @@ To get started with this lab, follow the steps below:
 
 Remember that a weak secret can be easily brute-forced. You may want to take a closer look at the JWT you receive when logging in, and maybe even try to decode it or brute-force the secret.
 
-## 🔐 Solution
-
-Don't peek unless you're completely stuck! The point of this lab is to gain hands-on experience with JWT security. But if you really need it, you can find a step-by-step solution guide in the `SOLUTION.md` file.
-
 ## 📚 Resources
 
 - [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
